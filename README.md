@@ -1,5 +1,6 @@
 # GitHub Analytics
 
+![image](https://github.com/user-attachments/assets/40e84f27-dc2c-4124-9a91-4d7239bee432)
 ## A Comprehensive GitHub Repository Performance Analyzer
 
 GitHub Analytics is an intuitive tool designed to provide in-depth insights into your GitHub repositories. This project simplifies repository analysis by visualizing key metrics such as commits, pull requests, issues, and code frequency, helping developers and teams track repository performance efficiently.
@@ -72,6 +73,9 @@ Get started with the GitHub Analytics tool by following these steps:
 
 1. **Enter GitHub Username and Repository**:
     - Provide your GitHub username and select the repository you wish to analyze.
+      
+![image](https://github.com/user-attachments/assets/d7a992db-1987-4e57-a6fa-89c4659abb16)
+
 
 2. **View Repository Analytics**:
     - **Commits**: View the total number of commits made to the repository over time.
