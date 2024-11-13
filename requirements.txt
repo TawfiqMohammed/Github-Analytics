@@ -1,0 +1,5 @@
+streamlit==1.25.0
+pygithub==1.59.0
+pandas==2.1.1
+plotly==5.15.0
+transformers==4.33.0
